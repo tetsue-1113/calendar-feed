@@ -7,7 +7,7 @@ DTSTART;TZID=Asia/Tokyo:20260804T135500
 DTEND;TZID=Asia/Tokyo:20260804T150000
 SUMMARY:①LIVERTINE AGEコラボ企画 お打ち合わせ
 DESCRIPTION:【スタジオ名】\nアーツビジョン事務所　⇒　松田ビル2階 会議室\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■コラボ企画の概要・流れはメールにてお送りしております！\n \n■14時～MG兼丸のパソコンでzoomにてお打ち合わせを行いますので、13時55分にアーツビジョン事務所にお越しくださいませ！（ピッタリに到着するくら\n いで大丈夫です！）
-UID:b985c05afda0fc8e734a12b7d387b2a4b7c1922e906c7562443f2219ae8c1223
+UID:d6f8f81d60d2f01dcbef7264ab172b867278cc5939c8054a193a37efa1de215a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -15,7 +15,7 @@ DTSTART;TZID=Asia/Tokyo:20260805T160000
 DTEND;TZID=Asia/Tokyo:20260805T173000
 SUMMARY:①全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はslackより共有されております！\n\n＜タイスケ＞\n前半：保住さん、住谷さん、相良さん　16時〜17時半\n後半：武田さん、梶川さん、岡村さん　18時〜20時半
-UID:fa1244b6032eebe8f09cc994fda973835a35f30fd37f443332674bc1f7dec120
+UID:f3a418467d58bfcf11a11f343605003b9c42a099bd5dbf010b93d70357e78dbe
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -23,15 +23,7 @@ DTSTART;TZID=Asia/Tokyo:20260812T160000
 DTEND;TZID=Asia/Tokyo:20260812T163000
 SUMMARY:①H74　追加収録
 DESCRIPTION:【スタジオ名】\nre:voix studio Ast\n\n【制作会社名】\n株式会社ソノロジックデザイン\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n田口\n\n【添付ファイル】\nrevoix studio A／B　スタジオ地図.pdf\nhttps://artsvision-schedule.com/fileattach/104182/revoix%20studio%20A%EF%BC\n %8FB%E3%80%80%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E5%9C%B0%E5%9B%B3.pdf
-UID:20b2cb7c652a16d3b5224d195661e28e22d77fcff143b1e61ebd7291e9b80ca9
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260818T000000
-DTEND;TZID=Asia/Tokyo:20260818T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:e9c91fef2b663d5bb1d2dc4c22b175344d87131a93872ef0d348cf7c80df8332
+UID:49c9d7aa802efbf5b04e3130241057d89dcf92172572c8799a15ab07529d5913
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -39,47 +31,31 @@ DTSTART;TZID=Asia/Tokyo:20260819T130000
 DTEND;TZID=Asia/Tokyo:20260819T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮\n\n【メモ】\n■8月は、8/19で実施となります！
-UID:3dc190cfbf0da473dbc3b5b86c0ac66aedd4a598746ff2450849c036f2f04132
+UID:5cd4a8bec6b8ee597d72439c8e5f55eb2b3877102839778941056ac9028384e1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260819T160000
 DTEND;TZID=Asia/Tokyo:20260819T163000
 SUMMARY:①東京ディバンカー　追加収録
-DESCRIPTION:【スタジオ名】\nジーアングル離れ　鼓st\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n幕田梨花\n\n【添付ファイル】\n【地図】ジーアングル離れ(奏、響、鼓).pdf\nhttps://artsvision-schedule.com/fileattach/103701/%E3%80%90%E5%9C%B0%E5%9B%\n B3%E3%80%91%E3%82%B8%E3%83%BC%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E9%9B%A2\n %E3%82%8C%28%E5%A5%8F%E3%80%81%E9%9F%BF%E3%80%81%E9%BC%93%29.pdf
-UID:1b458c22e265a33a35525332824379b91f854ed9ff954c38e17e18e91ed5efd3
+DESCRIPTION:【スタジオ名】\nジーアングル離れ　鼓st\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n幕田梨花\n\n【添付ファイル】\n【地図】ジーアングル離れ(奏、響、鼓).pdf\nhttps://artsvision-schedule.com/fileattach/103701/%E3%80%90%E5%9C%B0%E5%9B%\n B3%E3%80%91%E3%82%B8%E3%83%BC%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E9%9B%A2\n %E3%82%8C%28%E5%A5%8F%E3%80%81%E9%9F%BF%E3%80%81%E9%BC%93%29.pdf\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1eTlP4wgc4phjnLJJ2QejhDU89NQdwlPv?us\n p=sharing
+UID:c09ecff507a99efc477593e257865ba6beeaf4822dc297c4a7cb55bba2585a6b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260820T000000
-DTEND;TZID=Asia/Tokyo:20260820T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:579b86023f152626dde4d8a124976d8be045a273d6a6313f0d1d2de272cc7219
+DTSTART;TZID=Asia/Tokyo:20260820T160000
+DTEND;TZID=Asia/Tokyo:20260820T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:d230ebdd0f7419ae46f2a8dda3d094ae04d6b6b9d5714c787a0c84c279b9262b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260825T000000
-DTEND;TZID=Asia/Tokyo:20260825T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:76a076e3fc11412484e30f7af5d5a9eea9b53308ac5679abe4b9a1bff41d565c
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260827T000000
-DTEND;TZID=Asia/Tokyo:20260827T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:b0ba8fd89e323b4bd39db16729bd1c23eff7c2e97b118add09c30ee96e07a4b7
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260901T000000
-DTEND;TZID=Asia/Tokyo:20260901T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:0b6757fedd8d54910e49220b0578a7a7786359d2ecd9e7859ec58042f3a15beb
+DTSTART;TZID=Asia/Tokyo:20260824T160000
+DTEND;TZID=Asia/Tokyo:20260824T183000
+SUMMARY:①Paradox Live　4thシーズン　ボイスドラマ
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加渚\n\n【メモ】\n・【ボイス収録】第1戦ボイスドラマ（48w）\n・【ボイス収録】トラウマボイス（1w）\n・【ボイス収録】4th配信特典ボイス （10w）
+UID:79137ef785eccc4c02ae2ec8726d8b6baf3ce39810959342a88dd3ffff2a84e7
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -87,39 +63,7 @@ DTSTART;TZID=Asia/Tokyo:20260902T160000
 DTEND;TZID=Asia/Tokyo:20260902T173000
 SUMMARY:④全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の収録スケジュールが出ました！
-UID:717a91e0a57c3fcfab4b33bd5e30efafaf93b144afc27bfcbfa7d250c9a2e59f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260903T000000
-DTEND;TZID=Asia/Tokyo:20260903T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:fd8f6214aec83c2221bb3781342c16df36a41b67da8ebf5995104e44526ec0a1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260908T000000
-DTEND;TZID=Asia/Tokyo:20260908T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:5c22bca45367dac1c94cc81f314959b69d075a05b08dab0ee7cb3b80f23750e7
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260910T000000
-DTEND;TZID=Asia/Tokyo:20260910T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:eb7353a16bab0d35f7260f4fc6ceb133aad8e12f2778aa41be187e3b4a0f947b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260915T000000
-DTEND;TZID=Asia/Tokyo:20260915T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:cf188d6ac9d4031e008e73141613295f3dddc810c66817afdbeff757b9a27bb0
+UID:b68cba8c2009abc9c6cce694414022fcf460fc3de5e626089a73b5fb898c734a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -127,31 +71,31 @@ DTSTART;TZID=Asia/Tokyo:20260916T130000
 DTEND;TZID=Asia/Tokyo:20260916T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮\n\n【メモ】\n■9月は、9/16で実施となります！
-UID:fb68fc8c1386dd5084bf313f63b9821b8f658d095f4a3c92e08c97c2aafab1b4
+UID:dce0361a87e5aa2c678a70a3264a2af0ba01c3e12f8619740db91d2d0051cb96
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260917T000000
-DTEND;TZID=Asia/Tokyo:20260917T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:012d86812e8024815cbfdd01fec2b462c0a843ea8a87f49bc8c918f8fe4ae8de
+DTSTART;TZID=Asia/Tokyo:20260916T160000
+DTEND;TZID=Asia/Tokyo:20260916T180000
+SUMMARY:①【Rec】Paradox Live　4thシーズン　プロローグCD全員曲
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加渚\n\n【メモ】\n・4thシーズン　プロローグCD全員曲「Against the Chains」レコーディング\n 
+UID:0fdf710a93e553c086ef676285ba6c07a49297e4f1ca8db6bc4b54913ac18fbd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260922T000000
-DTEND;TZID=Asia/Tokyo:20260922T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:efd7f4384feea8608033b1fce8675fa472da9347dec8f76c33d60fdfc8baa4c2
+DTSTART;TZID=Asia/Tokyo:20260917T160000
+DTEND;TZID=Asia/Tokyo:20260917T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:5c56797ccd390ee65384a181a515d1ffe3d74aee494e5ae1abbb4052757921fe
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260924T000000
-DTEND;TZID=Asia/Tokyo:20260924T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:5820109eb10425328536d5987418de4c2badc934587164fd4b16e228de8875d3
+DTSTART;TZID=Asia/Tokyo:20260924T160000
+DTEND;TZID=Asia/Tokyo:20260924T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:1eeca916d399bcd410888446858670a5c1d72adbdfb413c9fa77b4b3071cd330
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -159,15 +103,7 @@ DTSTART;TZID=Asia/Tokyo:20260929T000000
 DTEND;TZID=Asia/Tokyo:20260929T235900
 SUMMARY:②Paradox Live　新シーズン発表イベント
 DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n■場所\nShibuya LOVEZ\n東京都渋谷区宇田川町９−５\nhttps://shibuyalovez.jp/\n\n■ゲスト様に関しまして（下記3名はご出演確定です）\n・BAE　朱雀野アレン役 梶原岳人様\n・COZMEZ　矢戸乃上珂波汰役 小林裕介様\n・悪漢奴等　翠石依織役 近藤孝行様\n\n■メイクつき、衣装自前
-UID:cae8443251623d94417237819ef74865fc7ae5f89cd90c2e25e0d38e2b327988
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260929T000000
-DTEND;TZID=Asia/Tokyo:20260929T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:89ca93a6d088b2cdd7ac436d145df9ab951bce357212954aadea9d2ea4914824
+UID:98d903acb9e76757def212d290bcbd69f7b0e1cd8a1d69561dae4c600f5d3adf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -175,15 +111,7 @@ DTSTART;TZID=Asia/Tokyo:20260930T160000
 DTEND;TZID=Asia/Tokyo:20260930T173000
 SUMMARY:④全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の収録スケジュールが出ました！
-UID:a394b266ee1bfb8b18ec2c1110a7e386749d8ba6069c117afa0024b3f7325956
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261001T000000
-DTEND;TZID=Asia/Tokyo:20261001T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:25b5145f4e4486816068b8fcd3eeb4fffae804e3e28147b0bd54caa3073f9211
+UID:74c824fcaf8a09d5fad00d5aab22f50c0b50745363a888babcb475e2537b3fe8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -191,15 +119,7 @@ DTSTART;TZID=Asia/Tokyo:20261002T160000
 DTEND;TZID=Asia/Tokyo:20261002T210000
 SUMMARY:①踏んだり、蹴ったり、愛したり
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名】\n久住
-UID:41eb7e23e50ca493c075d7443d64713079e3e506126a7d5db26129f8d63b4a2c
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261006T000000
-DTEND;TZID=Asia/Tokyo:20261006T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:4e8a2d5c58c8fb6dbeda4e66f861ff6a2adf0d5b7162dc3b2daa3826e4afde7e
+UID:8f1479be7bf1e3497a1e0426d4a845460a503156d4e554b7522bf8ae2bc779cb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -207,15 +127,7 @@ DTSTART;TZID=Asia/Tokyo:20261007T130000
 DTEND;TZID=Asia/Tokyo:20261007T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮
-UID:a50894fe9808ef82ac81f5354908bc18c00f67404841c3e173cfc9ef65e47290
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261008T000000
-DTEND;TZID=Asia/Tokyo:20261008T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:fca7100a35487ac2b856d0b22ad8778d461b87b91847e453e9de21e681493f35
+UID:362392076b497d557d278129fca47eb9514157e0a40251ab74fcc46a2b0c4a4b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -223,15 +135,7 @@ DTSTART;TZID=Asia/Tokyo:20261009T160000
 DTEND;TZID=Asia/Tokyo:20261009T210000
 SUMMARY:①踏んだり、蹴ったり、愛したり
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名】\n久住
-UID:87ad24df1b5245409b062bc71791daf68c1bb77c4ab37ed2ab580ab20440d0b5
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261013T000000
-DTEND;TZID=Asia/Tokyo:20261013T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:442b5bda5c2f2a8cd4caa7900092ccbc50f6621058de018ec86679b9551eacd1
+UID:349e51719bf57751441f31b795ebe8e56aeebd88d92e532823cffb37e61fc1ab
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -239,15 +143,15 @@ DTSTART;TZID=Asia/Tokyo:20261014T130000
 DTEND;TZID=Asia/Tokyo:20261014T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮
-UID:3ee936c5b70f63abd2e9929f1ce1e5762c0b22ac970c1d5fa84ce764c37b77a3
+UID:d4a793814f4c9d9b314a2fa4b1bbf5b03dee91d004972c2076f757fd664c45a8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261015T000000
-DTEND;TZID=Asia/Tokyo:20261015T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:dac86dcb722914eb5b84d8d81baae5bba7a7aa30db3449f6f001cec5bc485358
+DTSTART;TZID=Asia/Tokyo:20261015T160000
+DTEND;TZID=Asia/Tokyo:20261015T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:2a85d43903555f56333f4fbf5b4a50a7a4547f654befadbded9378370f71b2c6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -255,15 +159,7 @@ DTSTART;TZID=Asia/Tokyo:20261016T160000
 DTEND;TZID=Asia/Tokyo:20261016T210000
 SUMMARY:①踏んだり、蹴ったり、愛したり
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名】\n久住
-UID:d3d159b698062a14040decfaefea4037913b05581f955fbf38711552d1fb7926
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261020T000000
-DTEND;TZID=Asia/Tokyo:20261020T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:0961c355b8f25be599f302e8f74fad5f089184654dc4a347535f507858ea860c
+UID:8a057d5d097650379db19460fa6c02717b93857e0bcc666139eae827bbb14b82
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -271,15 +167,15 @@ DTSTART;TZID=Asia/Tokyo:20261021T130000
 DTEND;TZID=Asia/Tokyo:20261021T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮
-UID:f856ece6c0885484f7f82652a7a054cd3c0a5bd0a2abc9c5bfaca27fb86e3f02
+UID:9a2e2dac2dd8997ea21d34bfe42243eeec5e4d98e03169ab2c45b42e8cd33748
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261022T000000
-DTEND;TZID=Asia/Tokyo:20261022T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:8374c72f0bb1a9ae567763ae50c8e6c75835a76c90e5e66fdc1422ce230414ca
+DTSTART;TZID=Asia/Tokyo:20261022T160000
+DTEND;TZID=Asia/Tokyo:20261022T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:bf28bf1fee61c08ac160e2e7d9087f9d1a0fd7930b9ce862f2ad31ee7a9942d0
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -287,15 +183,7 @@ DTSTART;TZID=Asia/Tokyo:20261023T160000
 DTEND;TZID=Asia/Tokyo:20261023T210000
 SUMMARY:①踏んだり、蹴ったり、愛したり
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名】\n久住
-UID:287a22aef528c1e4312e157c8d88352f994ae89fb57b5a8f5f30ba421e8c8bd5
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261027T000000
-DTEND;TZID=Asia/Tokyo:20261027T235900
-SUMMARY:③原宿ヒメゴトハウス　※月１収録
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:7756ab4ce9204fc3f8a9f380f2be1299a17706dc27c360f84536c5ec074f3d0b
+UID:c1df44b7d91370836ecaac66072d74c2bcbeefbb4127064c71ede06021122b12
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -303,7 +191,7 @@ DTSTART;TZID=Asia/Tokyo:20261028T130000
 DTEND;TZID=Asia/Tokyo:20261028T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【担当者名】\n小宮
-UID:290c0e9860cfe478ca26898fb816ed61bda164d2a191ec15c5355c5b7422684f
+UID:e290c3eab89d0bf5a9e97dce2c4a2cf413d0b194bfcade183dacd92ab494a117
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -311,15 +199,15 @@ DTSTART;TZID=Asia/Tokyo:20261028T160000
 DTEND;TZID=Asia/Tokyo:20261028T173000
 SUMMARY:④全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の収録スケジュールが出ました！
-UID:882a56e759bf423ec841775ce64eaf93b491f3620d29e9aa9e7feae1fa06024a
+UID:96d43366d0315b65094000c8fc97ee7a719944312e34924ce8dfc2a01c4b7512
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20261029T000000
-DTEND;TZID=Asia/Tokyo:20261029T235900
-SUMMARY:②原宿ヒメゴトハウス　火曜本線／木曜抜き用
-DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-UID:4d0bb567b3c46694c7e828b5afc0762ed863cbbd42a3abd5c410c2d3f238e241
+DTSTART;TZID=Asia/Tokyo:20261029T160000
+DTEND;TZID=Asia/Tokyo:20261029T210000
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜キープ、内１回予定
+DESCRIPTION:【制作会社名】\n(株)アルディ\n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ】\n■2027年～変更になる可能性もあるので毎週抑えです
+UID:e58971157521f54916b472290019d310cf4b551124f20ba6aaf3d580570c357d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -327,7 +215,7 @@ DTSTART;TZID=Asia/Tokyo:20261030T160000
 DTEND;TZID=Asia/Tokyo:20261030T210000
 SUMMARY:①踏んだり、蹴ったり、愛したり
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名】\n久住
-UID:6d290a0c2c3a2c05fd2157cb1fa96c56739c558270cdecf0eeb8d3342d24334e
+UID:9412d45b1df27fded9bfc41f5cdd4d9d4399098f0315848c308f874cc446fecc
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
