@@ -307,6 +307,16 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1022820
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①本人NG
+DTSTART;TZID=Asia/Tokyo:20261011T000000
+DTEND;TZID=Asia/Tokyo:20261011T235900
+UID:58affb128c54f3d0aa78e1c9530021cfa559e92169dfd4f4398c900e50cbf0a3
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1105073
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1105073
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
  、1か月前に日程絞られます
 DTSTART;TZID=Asia/Tokyo:20261014T130000
