@@ -3,122 +3,6 @@ VERSION:2.0
 PRODID:-//Voiceke Schedule//Calendar 1.0//JA
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:①LIVERTINE AGEコラボ企画 お打ち合わせ
-DTSTART;TZID=Asia/Tokyo:20260804T135500
-DTEND;TZID=Asia/Tokyo:20260804T150000
-UID:78b65703d6c202239c532abdf2d60ba5d9d985b584dd218e03148ae68f800180
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1077287\n\n【スタジオ名】\nアーツビジョン事務所　⇒　
- 松田ビル2階 会議室\n\n【マネージャー名】\n兼丸 なな
- 弥\n\n【メモ】\n■コラボ企画の概要・流れはメールに
- てお送りしております！\n■14時～MG兼丸のパソコンでzo
- omにてお打ち合わせを行いますので、13時55分にアーツ
- ビジョン事務所にお越しくださいませ！（ピッタリに
- 到着するくらいで大丈夫です！）
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1077287
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①全力回避フラグちゃん！
-DTSTART;TZID=Asia/Tokyo:20260805T160000
-DTEND;TZID=Asia/Tokyo:20260805T173000
-UID:0c2450f6f2c8fd2c861c883b406a1dadc8677f564cebe6706da8314761f1c608
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 970031\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
- 社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
- ackより共有されております！\n\n＜タイスケ＞\n前半：
- 保住さん、住谷さん、相良さん　16時〜17時半\n後半：
- 武田さん、梶川さん、岡村さん　18時〜20時半
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/970031
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①H74　追加収録
-DTSTART;TZID=Asia/Tokyo:20260812T160000
-DTEND;TZID=Asia/Tokyo:20260812T163000
-UID:ec039fce725ea05b9d98a72f586bddeb8c85d6111fe01bbda68acd10345d0dde
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1075399\n\n【スタジオ名】\nre:voix studio Ast\n\n【制作会社名
- 】\n株式会社ソノロジックデザイン\n\n【マネージャー
- 名】\n野上 尚寿\n\n【担当者名】\n田口\n\n【添付ファイ
- ル】\nrevoix studio A／B　スタジオ地図.pdf\nhttps://artsvision-s
- chedule.com/fileattach/104182/revoix%20studio%20A%EF%BC%8FB%E3%80%80%E3%82
- %B9%E3%82%BF%E3%82%B8%E3%82%AA%E5%9C%B0%E5%9B%B3.pdf
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1075399
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DTSTART;TZID=Asia/Tokyo:20260819T130000
-DTEND;TZID=Asia/Tokyo:20260819T150000
-UID:d76fcefb4ff39535751cb120d34708255adfe388d0e7cc773f2d910fce15908d
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1028551\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮\n\n【添付ファイル
- 】\nどれみふぁ～む_構成台本_#47.pdf\nhttps://artsvision-schedu
- le.com/fileattach/105293/%E3%81%A9%E3%82%8C%E3%81%BF%E3%81%B5%E3%81%81%EF%
- BD%9E%E3%82%80_%E6%A7%8B%E6%88%90%E5%8F%B0%E6%9C%AC_%2347.pdf\n\n【メモ
- 】\n・台本は添付をご確認お願いいたします！\n・公式X
- 用宣伝音声、収録後写真撮影入ります。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1028551
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①東京ディバンカー　追加収録
-DTSTART;TZID=Asia/Tokyo:20260819T160000
-DTEND;TZID=Asia/Tokyo:20260819T163000
-UID:55b3ab3603c5023e6b2ef31df5dd6fc2753822c269246d24e45f68a8dc0cbe57
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1074040\n\n【スタジオ名】\nジーアングル離れ　鼓st\n\n【
- 制作会社名】\n(株)ジーアングル\n\n【ディレクター名】
- \nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【
- 担当者名】\n幕田梨花\n\n【添付ファイル】\n【地図】ジ
- ーアングル離れ(奏、響、鼓).pdf\nhttps://artsvision-schedule.co
- m/fileattach/103701/%E3%80%90%E5%9C%B0%E5%9B%B3%E3%80%91%E3%82%B8%E3%83%BC
- %E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E9%9B%A2%E3%82%8C%28%E5%A5%8F%E3%80%8
- 1%E9%9F%BF%E3%80%81%E9%BC%93%29.pdf\n\n【メモ】\n▼台本資料\nhttp
- s://drive.google.com/drive/folders/1eTlP4wgc4phjnLJJ2QejhDU89NQdwlPv?usp=s
- haring
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1074040
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①原宿ヒメゴトハウス
-DTSTART;TZID=Asia/Tokyo:20260820T160000
-DTEND;TZID=Asia/Tokyo:20260820T210000
-UID:5185504f24c5df63541dc6e5e54515aca56edbce13e1a9c681f42c438b6aa221
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1087171\n\n【スタジオ名】\nALLY STUDIO・改\n\n【制作会社名
- 】\n(株)アルディ\n\n【ディレクター名】\n金子　森さま\
- n\n【マネージャー名】\n野上 尚寿\n\n【担当者名】\n越
- 川さま\n\n【メモ】\n■この日はアニメ本編ではなく\n・
- ショート動画用音声\n・茶番＋タイトルコール\n・AGF用
- ボイスドラマ\n\n上記を収録します。\n香盤、台本は追
- ってメールにてお送りします。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1087171
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①Paradox Live　4thシーズン　ボイスドラマ
-DTSTART;TZID=Asia/Tokyo:20260824T160000
-DTEND;TZID=Asia/Tokyo:20260824T183000
-UID:251616d5f0c7462e0a19b3c4162f99d1f7bbcfc3f8aa687d84e7ec70ae5e217c
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1086558\n\n【スタジオ名】\nC And T本社スタジオ（5st～7st）
- \n\n【制作会社名】\n合同会社シーアンドティー\n\n【マ
- ネージャー名】\n堤　涼子\n\n【担当者名】\n須山加渚\n\
- n【メモ】\n・【ボイス収録】第1戦ボイスドラマ（48w）\
- n・【ボイス収録】トラウマボイス（1w）\n・【ボイス収
- 録】4th配信特典ボイス （10w）\n\n◇ C And T 本社スタジオ
- \nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5番4
- 1号　イースタン青山ビル 2F\n※ご到着されましたらイ
- ンターフォンにて、「401」をお呼び出しください。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1086558
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:④全力回避フラグちゃん！
 DTSTART;TZID=Asia/Tokyo:20260902T160000
 DTEND;TZID=Asia/Tokyo:20260902T173000
@@ -445,5 +329,364 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  】\n久住
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1022823
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261103T000000
+DTEND;TZID=Asia/Tokyo:20261103T235900
+UID:2d162e336d6f709cf1a80a0fd6c03170edc914b4c0d8db47b81488b61809e8e2
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 984459\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/984459
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261103T000000
+DTEND;TZID=Asia/Tokyo:20261103T235900
+UID:88e6b814edb9fb125abe53c3b2011cd92340ca8f1140f4083d9b73b55f2595a4
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073912\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261104T000000
+DTEND;TZID=Asia/Tokyo:20261104T235900
+UID:e868c02b3605dc791e7e53720eedc9225408d4eaca0b001c268aa9a207b4aa46
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902021\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⑤永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261104T000000
+DTEND;TZID=Asia/Tokyo:20261104T235900
+UID:2f2296d1a7349a79f33d2e548133848027e7d8c5676f02856cf472cbf4e3e4bb
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 985059\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/985059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261104T130000
+DTEND;TZID=Asia/Tokyo:20261104T150000
+UID:286a872a86aee3380234390df8cb0d726106c4857f7f2d9966f8c8bd5b952c3c
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082268\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082268
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①踏んだり、蹴ったり、愛したり
+DTSTART;TZID=Asia/Tokyo:20261106T160000
+DTEND;TZID=Asia/Tokyo:20261106T210000
+UID:3c4eff1e011b8f411918c6006765a8176c481c96143f95ea4734b3c889ab38c6
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1022824\n\n【制作会社名】\n(株)ビットグルーヴプロモー
+ ション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名
+ 】\n久住
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1022824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①「原宿ヒメゴトハウス」AGF
+DTSTART;TZID=Asia/Tokyo:20261107T000000
+DTEND;TZID=Asia/Tokyo:20261107T235900
+UID:11c3164762981b0e8c1a57d8053e1c16cb92e27670fedecd4b767338f6f74f5a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1062505\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1062505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①「原宿ヒメゴトハウス」AGF
+DTSTART;TZID=Asia/Tokyo:20261108T000000
+DTEND;TZID=Asia/Tokyo:20261108T235900
+UID:f192ae1649e09549f7a411daef824ce48eb2c48db2208af56b486e6554874ee9
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1062506\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1062506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261110T000000
+DTEND;TZID=Asia/Tokyo:20261110T235900
+UID:cf51f1bf11335bd8ac3b074f1d4e4cc2aecb5e22b6ba6e32422d79678d8dda4f
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 984469\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/984469
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261110T000000
+DTEND;TZID=Asia/Tokyo:20261110T235900
+UID:4f9a1a17ad21437be3e61e5b781bd8eb0dd40e5b5b92f7ea4c2635694632a726
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073913\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261111T000000
+DTEND;TZID=Asia/Tokyo:20261111T235900
+UID:9bb1732687fc0edfcd8a2bad6f7baf1ef8d3e61dea66f66b905e4f43f825e8a8
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902022\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⑤永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261111T000000
+DTEND;TZID=Asia/Tokyo:20261111T235900
+UID:ad86805d52999e223deabea7f178c8919aa210e0952de7ecaa2f17b3059a9f02
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 985069\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/985069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261111T130000
+DTEND;TZID=Asia/Tokyo:20261111T150000
+UID:aecc61c9ea0df72bc47351124f86d3ea0dbdad276360a14a7b3d39ea4d805ea0
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082269\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①踏んだり、蹴ったり、愛したり
+DTSTART;TZID=Asia/Tokyo:20261113T160000
+DTEND;TZID=Asia/Tokyo:20261113T210000
+UID:035cd51c503a06433eaa13e163ead7a8e4ffe13dbd4e06258dc3cd0c73785d9b
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1022825\n\n【制作会社名】\n(株)ビットグルーヴプロモー
+ ション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名
+ 】\n久住
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1022825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261117T000000
+DTEND;TZID=Asia/Tokyo:20261117T235900
+UID:8bbb489f66416be7a1321cacd3a606a254423d8cf1324a004b79834b272cf6d1
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 984479\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/984479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261117T000000
+DTEND;TZID=Asia/Tokyo:20261117T235900
+UID:f44f5a35de6511d5b94a85c0f74c2010d8fc3545eb0e81d675827c70dee369d9
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073914\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261118T000000
+DTEND;TZID=Asia/Tokyo:20261118T235900
+UID:c5215fc4e10171d39b2fd50ee78347cbbc1cc3d2389e4cc1af015e07a04901d4
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902023\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⑤永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261118T000000
+DTEND;TZID=Asia/Tokyo:20261118T235900
+UID:b5774bf65b27332db639f68f2adb62526db439d8a82726719e5be1117c16d830
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 985079\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/985079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261118T130000
+DTEND;TZID=Asia/Tokyo:20261118T150000
+UID:b00e6a60015a8dc9831387cda880a7bb59956d54a567d857b1cb4123220f25e1
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082270\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
+ キープ、内１回予定
+DTSTART;TZID=Asia/Tokyo:20261119T160000
+DTEND;TZID=Asia/Tokyo:20261119T210000
+UID:688c0f8137d3619ddde0606d5dc45dba19fc940563f5fdfa8a066b7e93491093
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1087183\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n■2027年～変更になる可能性もあるので毎週抑えで
+ す
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1087183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①踏んだり、蹴ったり、愛したり
+DTSTART;TZID=Asia/Tokyo:20261120T160000
+DTEND;TZID=Asia/Tokyo:20261120T210000
+UID:ce719601afd45d4b639bd7e1aec9bea75f1aa5d50e6d975eef4007ed96952c07
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1022826\n\n【制作会社名】\n(株)ビットグルーヴプロモー
+ ション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名
+ 】\n久住
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1022826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261124T000000
+DTEND;TZID=Asia/Tokyo:20261124T235900
+UID:5fdd22ddcab7adeed7aa934e2ff03c404aaf41bc4676f6fbb9d64ef27dc0ac1f
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 984489\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/984489
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261124T000000
+DTEND;TZID=Asia/Tokyo:20261124T235900
+UID:597a760114991c85363c7afbbe3b76ff155d025be71dd98fa887920c0072f552
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073915\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261125T000000
+DTEND;TZID=Asia/Tokyo:20261125T235900
+UID:af3819fac5b062f44cbab49e901d2e00544c93de59c943b8ec2d1f34c9aeba8d
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902024\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⑤永久指名おねがいします！
+DTSTART;TZID=Asia/Tokyo:20261125T000000
+DTEND;TZID=Asia/Tokyo:20261125T235900
+UID:1decca274bd4b0a2e728bc3c1580569cb64c778dce8adcbc45c37ff9bfe3815a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 985089\n\n【制作会社名】\n(株)ビットグルーヴプロモーシ
+ ョン\n\n【ディレクター名】\n原口昇\n\n【マネージャー
+ 名】\n山本 愛実\n\n【担当者名】\n浜西綾乃
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/985089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261125T130000
+DTEND;TZID=Asia/Tokyo:20261125T150000
+UID:8dd5239627e6983773113ad60e519d20af0ee790010cac3ccf07a150c60e8b46
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082271\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082271
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④全力回避フラグちゃん！
+DTSTART;TZID=Asia/Tokyo:20261125T160000
+DTEND;TZID=Asia/Tokyo:20261125T173000
+UID:1e2f0b2329ff9e741d5ae17ef638cb19463f38eb3da93156638437cce91ebdd0
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 970035\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
+ 社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
+ な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の
+ 収録スケジュールが出ました！
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/970035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
+ キープ、内１回予定
+DTSTART;TZID=Asia/Tokyo:20261126T160000
+DTEND;TZID=Asia/Tokyo:20261126T210000
+UID:da8a8b6f722158e9ca1ae66dd0e499297608acabd5bb3ad3303e8a09ed544a18
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1087184\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n■2027年～変更になる可能性もあるので毎週抑えで
+ す
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1087184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①踏んだり、蹴ったり、愛したり
+DTSTART;TZID=Asia/Tokyo:20261127T160000
+DTEND;TZID=Asia/Tokyo:20261127T210000
+UID:4f213c0eb5d11dcbb46c0b8a2fc76b7830083009883694485a3f40813056608a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1022827\n\n【制作会社名】\n(株)ビットグルーヴプロモー
+ ション\n\n【マネージャー名】\n山本 愛実\n\n【担当者名
+ 】\n久住
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1022827
 END:VEVENT
 END:VCALENDAR
