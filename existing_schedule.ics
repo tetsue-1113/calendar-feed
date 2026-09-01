@@ -18,6 +18,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970032
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:【テープAD】ホストと社畜
+DTSTART;TZID=Asia/Tokyo:20260903T000000
+DTEND;TZID=Asia/Tokyo:20260903T235900
+UID:20e509e65f5366dec6c0cea14a23c08a803374550e8960894745727623780a2a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1106713\n\n【メモ】\n・マジックカプセル制作「ホストと
+ 社畜」役：レン（担当：野上）
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1106713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①今日ログ　仮キープ
 DTSTART;TZID=Asia/Tokyo:20260903T200000
 DTEND;TZID=Asia/Tokyo:20260903T230000
