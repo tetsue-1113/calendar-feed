@@ -3,15 +3,17 @@ VERSION:2.0
 PRODID:-//Voiceke Schedule//Calendar 1.0//JA
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:④全力回避フラグちゃん！
+SUMMARY:①全力回避フラグちゃん！
 DTSTART;TZID=Asia/Tokyo:20260902T160000
 DTEND;TZID=Asia/Tokyo:20260902T173000
-UID:d19f4428dc05f77df994de9d098a61ccdd036fbc3332ffcb8329671831be7535
+UID:710ebfa4f4d0ce4d76b35ad2023f40c6d97b55eaf0697501d68fc63b9e2f5c43
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  970032\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
  社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の
- 収録スケジュールが出ました！
+ な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
+ ackよりご共有いただいております！\n\n＜タイスケ＞\n
+ 前半：保住さん、住谷さん、相良さん　16時〜17時半\n
+ 後半：武田さん、梶川さん、岡村さん　18時〜20時半
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970032
 END:VEVENT
