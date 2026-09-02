@@ -30,14 +30,15 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1107422
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①今日ログ　仮キープ
+SUMMARY:①今日ログ
 DTSTART;TZID=Asia/Tokyo:20260903T200000
 DTEND;TZID=Asia/Tokyo:20260903T230000
-UID:22043b37376d6d230683eae6cc1c0973575f83fe2759a3a5c206eefd7e518901
+UID:bc54de431c2056dbf247e7c77f27efb2369be742efc569875943861c746f17f6
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1100037\n\n【制作会社名】\n(株)マリン･エンタテインメ
- ント\n\n【マネージャー名】\n杉山　裕\n\n【担当者名】\
- n西川路
+ 1100037\n\n【スタジオ名】\nマリンエンタテインメント4F
+ 会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタ
+ テインメント\n\n【マネージャー名】\n杉山　裕\n\n【担
+ 当者名】\n西川路
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1100037
 END:VEVENT
