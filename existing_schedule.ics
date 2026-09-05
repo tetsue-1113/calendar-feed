@@ -45,14 +45,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①東京ディバンカー　追加収録
 DTSTART;TZID=Asia/Tokyo:20260909T160000
-DTEND;TZID=Asia/Tokyo:20260909T210000
-UID:8b7801fae43eedb1aafe7837a5dc423df78b091fc1020f0704f646bc5f867f49
+DTEND;TZID=Asia/Tokyo:20260909T163000
+UID:4f541deb177e25b361b261dafbc461d53bb8128caed39f0618a52d7d4c1ea2c9
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1093818\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレ
- クター名】\nメーカーの方\n\n【マネージャー名】\n小林
-  聡華\n\n【担当者名】\n幕田梨花
+ 1108455\n\n【スタジオ名】\nジーアングル離れ　鼓st\n\n【
+ 制作会社名】\n(株)ジーアングル\n\n【ディレクター名】
+ \nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【
+ 担当者名】\n幕田梨花\n\n【メモ】\n▼台本資料\nhttps://dr
+ ive.google.com/drive/folders/1wzu_lzZrIKqkpoaL_NMWt8_64_mcjWPn?usp=sharing
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1093818
+URL:https://artsvision-schedule.com/schedule/detail/1108455
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
