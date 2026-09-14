@@ -84,6 +84,25 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1086556
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①dominion
+DTSTART;TZID=Asia/Tokyo:20260917T100000
+DTEND;TZID=Asia/Tokyo:20260917T150000
+UID:dc3753ad34df9ae644662b22e3d0f85860b0ad79af2f7b7bbcd15c0daa185b59
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1113074\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
+ ジャー名】\n山村 綾香\n\n【担当者名】\n吉崎みずき/中
+ 村 香幸\n\n【メモ】\n＜ST：dominion（正タイトル：ロスト
+ オーダー）＞（クライアント：Cygames様）＞\n【住谷哲
+ 栄さま/2キャラ】計9w\nキャラ：（貧民の少年）1か月目
+ イベントストーリー_ロイド編_...1w\n（気さくな少年）1
+ か月目イベントストーリー_オードリー編...8w\n\n■台本
+ 下記よりご確認くださいませ！\nhttps://tohokushinsha-group.en
+ t.box.com/s/ge3gq5j59m9ma5w9s4190tijaqz3tc58?box_source=send-shared-link&c
+ hannel=email&notification-version=1\n＜　PASS：domi0914　＞
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1113074
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①原宿ヒメゴトハウス
 DTSTART;TZID=Asia/Tokyo:20260917T160000
 DTEND;TZID=Asia/Tokyo:20260917T210000
