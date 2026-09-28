@@ -179,15 +179,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1120649
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:④全力回避フラグちゃん！
+SUMMARY:①全力回避フラグちゃん！
 DTSTART;TZID=Asia/Tokyo:20260930T160000
 DTEND;TZID=Asia/Tokyo:20260930T173000
-UID:8b78c5d094c4caf7d708d911545b19abca81bda4468670f86b1e22f76f018e3e
+UID:2eb6a08bb47c12ac482f74b5a8821873ac315b2e438fed9e42fa5b104e392c40
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  970033\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
  社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の
- 収録スケジュールが出ました！
+ な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
+ ackよりご共有いただいております。\n\n【時間】\n前半
+ ：保住さん、住谷さん、相良さん　16時〜17時半\n後半
+ ：武田さん、梶川さん、岡村さん　18時〜20時半
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970033
 END:VEVENT
@@ -203,6 +205,24 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1117336
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①Paradox Live　アプリ用音声収録　※どちらか
+DTSTART;TZID=Asia/Tokyo:20261005T160000
+DTEND;TZID=Asia/Tokyo:20261005T170000
+UID:2ff5d8e3526ea44efded4611b26c2cfdb8d8e5e0f8fc2268e7b8015393e12d97
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1121597\n\n【制作会社名】\n合同会社シーアンドティー\n\n
+ 【マネージャー名】\n堤　涼子\n\n【メモ】\n■資料共有
+ フォルダ\n★住谷哲栄様【Paradox Live／アプリゲーム】ご
+ 依頼資料一式\nhttps://drive.google.com/drive/folders/1N4bZy_kR9XK0vc
+ 9A0ieTkomAlUwSPIIH?usp=sharing\n\n★Paradox Live／アプリゲーム版_
+ 参考資料\nhttps://drive.google.com/drive/folders/1wevRNXrax_xrsR0mbta9
+ jiRYxFjHOIUl?usp=sharing\n※先日ご共有の「ゲーム概要資料」
+ に加え、\n「Live2Dの参考映像」も頂きましたのでよろし
+ ければご確認くださいませ
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1121597
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
  、1か月前に日程絞られます
 DTSTART;TZID=Asia/Tokyo:20261007T130000
@@ -214,6 +234,24 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①Paradox Live　アプリ用音声収録　※どちらか
+DTSTART;TZID=Asia/Tokyo:20261007T160000
+DTEND;TZID=Asia/Tokyo:20261007T170000
+UID:85045a74e8cb87fafd58e9f57a8b66f4a494440127b01d49a5a24da50cbdd4f2
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1121599\n\n【制作会社名】\n合同会社シーアンドティー\n\n
+ 【マネージャー名】\n堤　涼子\n\n【メモ】\n■資料共有
+ フォルダ\n★住谷哲栄様【Paradox Live／アプリゲーム】ご
+ 依頼資料一式\nhttps://drive.google.com/drive/folders/1N4bZy_kR9XK0vc
+ 9A0ieTkomAlUwSPIIH?usp=sharing\n\n★Paradox Live／アプリゲーム版_
+ 参考資料\nhttps://drive.google.com/drive/folders/1wevRNXrax_xrsR0mbta9
+ jiRYxFjHOIUl?usp=sharing\n※先日ご共有の「ゲーム概要資料」
+ に加え、\n「Live2Dの参考映像」も頂きましたのでよろし
+ ければご確認くださいませ
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1121599
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①本人NG
