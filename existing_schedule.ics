@@ -356,24 +356,18 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082268
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①「原宿ヒメゴトハウス」AGF
-DTSTART;TZID=Asia/Tokyo:20261107T000000
-DTEND;TZID=Asia/Tokyo:20261107T235900
-UID:11c3164762981b0e8c1a57d8053e1c16cb92e27670fedecd4b767338f6f74f5a
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1062505\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n越川さま
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1062505
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①「原宿ヒメゴトハウス」AGF
+SUMMARY:①「原宿ヒメゴトハウス」AGF　※16：10～16：50本
+ 番
 DTSTART;TZID=Asia/Tokyo:20261108T000000
 DTEND;TZID=Asia/Tokyo:20261108T235900
-UID:f192ae1649e09549f7a411daef824ce48eb2c48db2208af56b486e6554874ee9
+UID:21bab19e4f8037b9d1c3ed328913d6f58bef20c1f0bd992d97e70c8332b3eddb
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1062506\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n越川さま
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n11/8（日）16：10～16：50\n※池袋本店前の野外ステー
+ ジにて\n※ご出演…住谷さん、永塚さん、義村さん、堀
+ 金さん\n\n上記にてご出演確定しましたのでどうぞよろ
+ しくお願い致します！
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1062506
 END:VEVENT
