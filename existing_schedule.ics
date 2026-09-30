@@ -3,197 +3,6 @@ VERSION:2.0
 PRODID:-//Voiceke Schedule//Calendar 1.0//JA
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:①全力回避フラグちゃん！
-DTSTART;TZID=Asia/Tokyo:20260902T160000
-DTEND;TZID=Asia/Tokyo:20260902T173000
-UID:710ebfa4f4d0ce4d76b35ad2023f40c6d97b55eaf0697501d68fc63b9e2f5c43
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 970032\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
- 社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
- ackよりご共有いただいております！\n\n＜タイスケ＞\n
- 前半：保住さん、住谷さん、相良さん　16時〜17時半\n
- 後半：武田さん、梶川さん、岡村さん　18時〜20時半
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/970032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【テープAD】ホストと社畜
-DTSTART;TZID=Asia/Tokyo:20260903T181500
-DTEND;TZID=Asia/Tokyo:20260903T183000
-UID:a2cd4c81e8bd3eddef69585b9074b5e899b475c49b0773a2172f553a7f3c46b7
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1107422\n\n【スタジオ名】\n松田ビル　地下録音ブース\n\n
- 【メモ】\n・マジックカプセル制作「ホストと社畜」役
- ：レン（担当：野上）
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1107422
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①今日ログ
-DTSTART;TZID=Asia/Tokyo:20260903T200000
-DTEND;TZID=Asia/Tokyo:20260903T230000
-UID:bc54de431c2056dbf247e7c77f27efb2369be742efc569875943861c746f17f6
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1100037\n\n【スタジオ名】\nマリンエンタテインメント4F
- 会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタ
- テインメント\n\n【マネージャー名】\n杉山　裕\n\n【担
- 当者名】\n西川路
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1100037
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①東京ディバンカー　追加収録
-DTSTART;TZID=Asia/Tokyo:20260909T160000
-DTEND;TZID=Asia/Tokyo:20260909T163000
-UID:4f541deb177e25b361b261dafbc461d53bb8128caed39f0618a52d7d4c1ea2c9
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1108455\n\n【スタジオ名】\nジーアングル離れ　鼓st\n\n【
- 制作会社名】\n(株)ジーアングル\n\n【ディレクター名】
- \nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【
- 担当者名】\n幕田梨花\n\n【メモ】\n▼台本資料\nhttps://dr
- ive.google.com/drive/folders/1wzu_lzZrIKqkpoaL_NMWt8_64_mcjWPn?usp=sharing
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1108455
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DTSTART;TZID=Asia/Tokyo:20260916T130000
-DTEND;TZID=Asia/Tokyo:20260916T150000
-UID:4d796afbb9f51f0c7f2e85d32cc4d56246a57bbd98e7d75c1df4ba5bf660b202
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082009\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮\n\n【添付ファイル
- 】\nどれみふぁ～む_構成台本_#48.pdf\nhttps://artsvision-schedu
- le.com/fileattach/105294/%E3%81%A9%E3%82%8C%E3%81%BF%E3%81%B5%E3%81%81%EF%
- BD%9E%E3%82%80_%E6%A7%8B%E6%88%90%E5%8F%B0%E6%9C%AC_%2348.pdf\n\n【メモ
- 】\n・台本は添付をご確認お願いします！\n・公式X用宣
- 伝音声、収録後写真撮影入ります。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①【Rec】Paradox Live　4thシーズン　プロローグCD全
- 員曲
-DTSTART;TZID=Asia/Tokyo:20260916T160000
-DTEND;TZID=Asia/Tokyo:20260916T180000
-UID:5b58607159019008594d19d91e0d8098f65026426084a1c5cd6da2fc2af278d4
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1086556\n\n【スタジオ名】\n渋谷NWPスタジオ\n\n【制作会社
- 名】\n合同会社シーアンドティー\n\n【マネージャー名
- 】\n堤　涼子\n\n【担当者名】\n須山加渚\n\n【メモ】\n・
- 4thシーズン　プロローグCD全員曲「Against the Chains」レコ
- ーディング\n\n◇ 収録スタジオ\n渋谷NWPスタジオ\nhttps://
- www.nwp.co.jp/studio\n〒150-0036\n東京都渋谷区南平台2-12 南平
- 台久保ビルB1F\nJR・東急東横線・井の頭線・渋谷駅 徒歩
- 10分\n井の頭線 神泉駅 徒歩10分
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1086556
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①dominion
-DTSTART;TZID=Asia/Tokyo:20260917T114500
-DTEND;TZID=Asia/Tokyo:20260917T121500
-UID:90cd275d32e98dbefa40f4ae113e09547e4dd7e6895e55ba14ce25acb093eca7
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1113775\n\n【スタジオ名】\nサウンドイン本館 Qst\n\n【制
- 作会社名】\n株式会社東北新社\n\n【ディレクター名】\n
- 古屋智子さま\n\n【マネージャー名】\n山村 綾香\n\n【担
- 当者名】\n吉崎みずき/中村 香幸\n\n【添付ファイル】\n
- 世界観資料_240613.pdf\nhttps://artsvision-schedule.com/fileattach/108
- 970/%E4%B8%96%E7%95%8C%E8%A6%B3%E8%B3%87%E6%96%99_240613.pdf\n\n【メモ
- 】\n＜ST：dominion（正タイトル：ロストオーダー）＞（
- クライアント：Cygames様）＞\n■ 9/17(木)　 ＠ サウンド
- イン 本館 Qst\n・11:45-12:15　住谷哲栄さま（モブ2char）計
- 9w\nキャラ：（貧民の少年）1か月目イベントストーリー
- _ロイド編_...1w\n（気さくな少年）1か月目イベントスト
- ーリー_オードリー編...8w\n\n■台本下記よりご確認くだ
- さいませ！\nhttps://tohokushinsha-group.ent.box.com/s/ge3gq5j59m9ma5w
- 9s4190tijaqz3tc58?box_source=send-shared-link&channel=email&notification-v
- ersion=1\n＜　PASS：domi0914　＞\n\n■スタジオ：サウンドイ
- ン本館\n【住所】〒102-0081 東京都千代田区四番町5-6\nJR
- ・都営新宿線・南北線・有楽町線「市ヶ谷駅」より徒
- 歩5分\n\n■世界観資料を添付にてお送りします。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1113775
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①原宿ヒメゴトハウス
-DTSTART;TZID=Asia/Tokyo:20260917T160000
-DTEND;TZID=Asia/Tokyo:20260917T210000
-UID:b2bb0b3e6cee1ca10ba9225c5454b25e1cb2c8ca6096309fc9741777d1be3ab6
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1087174\n\n【スタジオ名】\nALLY STUDIO・改\n\n【制作会社名
- 】\n(株)アルディ\n\n【ディレクター名】\n金子さま\n\n【
- マネージャー名】\n野上 尚寿\n\n【担当者名】\n越川さ
- ま\n\n【メモ】\n■9月は9/17で収録となりましたので他の
- 日程はバラシでお願いします\n■プレゼントキャンペー
- ン用にサイン5枚お願いします\n■本編＃１～５とSNS用
- ショート動画（＃１、２、３、５、６、８）の収録を
- 行います。素材は別途メールにてお送りしております
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1087174
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①【REC】原宿ヒメゴトハウス　メインテーマ
-DTSTART;TZID=Asia/Tokyo:20260925T160000
-DTEND;TZID=Asia/Tokyo:20260925T190000
-UID:c2aa1db9c7190a0d3535a67c74752cf4e23f34500f2d56fa3f466bd831d63f72
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1091189\n\n【スタジオ名】\nスタージャムルーム\n\n【制作
- 会社名】\n(株)バンダイナムコミュージックライブ\n\n【
- ディレクター名】\nご担当：松元さま\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n松元さま\n\n【添付
- ファイル】\nsjr_map.pdf\nhttps://artsvision-schedule.com/fileattach/1
- 06367/sjr_map.pdf\n\n【メモ】\n■スタージャムルーム\n東京
- 都港区南青山1-15-14\n新乃木坂ビルB1 グランドファンク
- 内\n\n■楽曲：愛され放題！秘め事ハウス\nhttps://drive.goo
- gle.com/drive/folders/1PjTPR50trK85VjYffCkCTI7QhrSFh2c8?usp=sharing
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1091189
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①Paradox Live　新シーズン発表イベント
-DTSTART;TZID=Asia/Tokyo:20260929T144500
-DTEND;TZID=Asia/Tokyo:20260929T210000
-UID:01c3727caea067e07246907d3b08964ed5e00a9f3b89a774db1962225a79ea60
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1120649\n\n【スタジオ名】\n渋谷駅TSUTAYA前→Shibuya LOVEZ\n\n
- 【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n
- \n【担当者名】\n中世古・長屋\n\n【メモ】\n■14：45に渋
- 谷駅TSUTAYA前にて堤と待ち合わせをお願いいたします。
- \n\n■場所\nShibuya LOVEZ\n東京都渋谷区宇田川町９−５\nhtt
- ps://shibuyalovez.jp/\n\n■ゲスト様に関しまして（下記3名は
- ご出演確定です）\n・BAE　朱雀野アレン役 梶原岳人様\n
- ・COZMEZ　矢戸乃上珂波汰役 小林裕介様\n・悪漢奴等　
- 翠石依織役 近藤孝行様\n\n■メイク、衣装つきます\n\n
- ■有観客、配信あり\n\n■イベントのアフタートーク10
- 分程度を映像収録します。\n（文化放送のプラットフォ
- ーム「QloveR」で後日配信）\nhttps://qlover.jp/paradoxlive\nリ
- ハ終了後のメイク・着替えが完了した公演開始前のタ
- イミングで撮影させていただく予定です。\n\n■イベン
- ト登壇者による合同サイン（色紙１枚）のご記入をお
- 願い致します。
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1120649
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①全力回避フラグちゃん！
-DTSTART;TZID=Asia/Tokyo:20260930T160000
-DTEND;TZID=Asia/Tokyo:20260930T173000
-UID:2eb6a08bb47c12ac482f74b5a8821873ac315b2e438fed9e42fa5b104e392c40
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 970033\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
- 社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
- ackよりご共有いただいております。\n\n【時間】\n前半
- ：保住さん、住谷さん、相良さん　16時〜17時半\n後半
- ：武田さん、梶川さん、岡村さん　18時〜20時半
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/970033
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:①隻眼・隻腕・隻脚の魔術師
 DTSTART;TZID=Asia/Tokyo:20261005T100000
 DTEND;TZID=Asia/Tokyo:20261005T150000
@@ -511,5 +320,256 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  します。
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1087184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261201T000000
+DTEND;TZID=Asia/Tokyo:20261201T235900
+UID:5b481be7ccae1db1da2f2c67fd6832c2339127ea9a182d2384c8e271a608feb0
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073916\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261202T000000
+DTEND;TZID=Asia/Tokyo:20261202T235900
+UID:3508c5e2c4daa1246ce1b5f963cd23c22ae7f7abcf91f33d9edeeeb4f5c9aa8e
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902025\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261202T130000
+DTEND;TZID=Asia/Tokyo:20261202T150000
+UID:cb38f44b800df7b9bdc0e6b8544dd82ea1c28e005b9e86b8fbad1e098a421904
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082272\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261208T000000
+DTEND;TZID=Asia/Tokyo:20261208T235900
+UID:122f04267938817a6e2982f63683bd22d7e5f88ff08bb4a1447d7aa258ef1833
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073917\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073917
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261209T000000
+DTEND;TZID=Asia/Tokyo:20261209T235900
+UID:2a5ddc1f34672dc85faf6f8bf25c94c620a946fa62d86e75a2b75c9dcc337eb2
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902026\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261209T130000
+DTEND;TZID=Asia/Tokyo:20261209T150000
+UID:2de186f4b4be438b0565adf42d640a49893691ade62bf5a3be1e04e2722442c5
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082273\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261215T000000
+DTEND;TZID=Asia/Tokyo:20261215T235900
+UID:1740e883fc2887887dda71d19f8656d61638a45790e4be836d5393becde599a4
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073918\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261216T000000
+DTEND;TZID=Asia/Tokyo:20261216T235900
+UID:658cc473b90a288e7c548047eb683ed1bff69aaaf93bcef969fb29c7ab3e9166
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902027\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261216T130000
+DTEND;TZID=Asia/Tokyo:20261216T150000
+UID:efc83ff684b81b3a31fedc50b29ef7375cf663a821f9af61b90b1736099dbaad
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082274\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082274
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
+ キープ、内１回予定
+DTSTART;TZID=Asia/Tokyo:20261217T160000
+DTEND;TZID=Asia/Tokyo:20261217T210000
+UID:e50f30a7cf758ea9db47350fb49f08461aa4fb7b36b5b152dabeba7eb049828b
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1087187\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n■2027年～変更になる可能性もあるので毎週抑えで
+ す\n\n⇒10月につきましては制作の見直しが入りまして
+ 、、素材が間に合わなそうなため全てバラシでお願い
+ します。
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1087187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261222T000000
+DTEND;TZID=Asia/Tokyo:20261222T235900
+UID:ec448975d77e36dfac7f25c20817b72b2724ffc68fab42ffdd695c8c8db27784
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073919\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261223T000000
+DTEND;TZID=Asia/Tokyo:20261223T235900
+UID:582cac9a15ce38ae4369bb4f7a914159bc9c3eeea01b821e0c025f9a963db06b
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902028\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902028
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261223T130000
+DTEND;TZID=Asia/Tokyo:20261223T150000
+UID:d567f4f74613aab0d6ef6378a440deae131c17b759d1b7311d1bad77805373bd
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082275\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082275
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④全力回避フラグちゃん！
+DTSTART;TZID=Asia/Tokyo:20261223T160000
+DTEND;TZID=Asia/Tokyo:20261223T173000
+UID:b4ddb4dee11e99dd0ac8b901ddcb048c784790475a818053b904c6f1866ad3fc
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 970036\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
+ 社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
+ な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の
+ 収録スケジュールが出ました！
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/970036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
+ キープ、内１回予定
+DTSTART;TZID=Asia/Tokyo:20261224T160000
+DTEND;TZID=Asia/Tokyo:20261224T210000
+UID:2711c172d9618688b607181da4af3d73b388c83ccb2a6666a310b6018f948043
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1087188\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n■2027年～変更になる可能性もあるので毎週抑えで
+ す\n\n⇒10月につきましては制作の見直しが入りまして
+ 、、素材が間に合わなそうなため全てバラシでお願い
+ します。
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1087188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
+DTSTART;TZID=Asia/Tokyo:20261229T000000
+DTEND;TZID=Asia/Tokyo:20261229T235900
+UID:cbc206040e6b171eec6f4af2b36ea3c0200a4cf8e838c1d971df7dacc5706a1c
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1073920\n\n【制作会社名】\n(株)ステイラック\n\n【ディレ
+ クター名】\n八巻さま\n\n【マネージャー名】\n山村 綾
+ 香\n\n【担当者名】\n松木さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1073920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:③え、社内システム全てワンオペしている私を解
+ 雇ですか？
+DTSTART;TZID=Asia/Tokyo:20261230T000000
+DTEND;TZID=Asia/Tokyo:20261230T235900
+UID:93403120fb03a07ab8230fdc9b9927f165c93bb702eea0b15a22379b261e65e9
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 902029\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ
+ \n\n【マネージャー名】\n加茂下 永\n\n【担当者名】\n高
+ 橋
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/902029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
+ 、1か月前に日程絞られます
+DTSTART;TZID=Asia/Tokyo:20261230T130000
+DTEND;TZID=Asia/Tokyo:20261230T150000
+UID:c5f710cb689ac4991354a3aee412e73648f1442c99d449b75e9b271b3a60bc18
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1082276\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
+ 】\n小林 聡華\n\n【担当者名】\n小宮
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1082276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
+ キープ、内１回予定
+DTSTART;TZID=Asia/Tokyo:20261231T160000
+DTEND;TZID=Asia/Tokyo:20261231T210000
+UID:a381b3a2beabc9ba1f64592fac96e40f9524fb5e3973ce7f9913286675501496
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1087189\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
+ ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
+ 】\n■2027年～変更になる可能性もあるので毎週抑えで
+ す\n\n⇒10月につきましては制作の見直しが入りまして
+ 、、素材が間に合わなそうなため全てバラシでお願い
+ します。
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1087189
 END:VEVENT
 END:VCALENDAR
