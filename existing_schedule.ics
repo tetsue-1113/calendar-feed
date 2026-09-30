@@ -205,24 +205,6 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1117336
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①Paradox Live　アプリ用音声収録　※どちらか
-DTSTART;TZID=Asia/Tokyo:20261005T160000
-DTEND;TZID=Asia/Tokyo:20261005T170000
-UID:2ff5d8e3526ea44efded4611b26c2cfdb8d8e5e0f8fc2268e7b8015393e12d97
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1121597\n\n【制作会社名】\n合同会社シーアンドティー\n\n
- 【マネージャー名】\n堤　涼子\n\n【メモ】\n■資料共有
- フォルダ\n★住谷哲栄様【Paradox Live／アプリゲーム】ご
- 依頼資料一式\nhttps://drive.google.com/drive/folders/1N4bZy_kR9XK0vc
- 9A0ieTkomAlUwSPIIH?usp=sharing\n\n★Paradox Live／アプリゲーム版_
- 参考資料\nhttps://drive.google.com/drive/folders/1wevRNXrax_xrsR0mbta9
- jiRYxFjHOIUl?usp=sharing\n※先日ご共有の「ゲーム概要資料」
- に加え、\n「Live2Dの参考映像」も頂きましたのでよろし
- ければご確認くださいませ
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1121597
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
  、1か月前に日程絞られます
 DTSTART;TZID=Asia/Tokyo:20261007T130000
@@ -236,20 +218,21 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082264
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①Paradox Live　アプリ用音声収録　※どちらか
+SUMMARY:①Paradox Live　アプリ用音声収録
 DTSTART;TZID=Asia/Tokyo:20261007T160000
 DTEND;TZID=Asia/Tokyo:20261007T170000
-UID:85045a74e8cb87fafd58e9f57a8b66f4a494440127b01d49a5a24da50cbdd4f2
+UID:3041e0d2e97c8136399f5c778cb1871e6d4ffc517980f69a9b53f6ec7176134c
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1121599\n\n【制作会社名】\n合同会社シーアンドティー\n\n
- 【マネージャー名】\n堤　涼子\n\n【メモ】\n■資料共有
- フォルダ\n★住谷哲栄様【Paradox Live／アプリゲーム】ご
- 依頼資料一式\nhttps://drive.google.com/drive/folders/1N4bZy_kR9XK0vc
- 9A0ieTkomAlUwSPIIH?usp=sharing\n\n★Paradox Live／アプリゲーム版_
- 参考資料\nhttps://drive.google.com/drive/folders/1wevRNXrax_xrsR0mbta9
- jiRYxFjHOIUl?usp=sharing\n※先日ご共有の「ゲーム概要資料」
- に加え、\n「Live2Dの参考映像」も頂きましたのでよろし
- ければご確認くださいませ
+ 【マネージャー名】\n堤　涼子\n\n【メモ】\n※10／5につ
+ いてはバラシになりました。\n\n■資料共有フォルダ\n
+ ★住谷哲栄様【Paradox Live／アプリゲーム】ご依頼資料
+ 一式\nhttps://drive.google.com/drive/folders/1N4bZy_kR9XK0vc9A0ieTkomAlU
+ wSPIIH?usp=sharing\n\n★Paradox Live／アプリゲーム版_参考資料
+ \nhttps://drive.google.com/drive/folders/1wevRNXrax_xrsR0mbta9jiRYxFjHOIUl
+ ?usp=sharing\n※先日ご共有の「ゲーム概要資料」に加え、
+ \n「Live2Dの参考映像」も頂きましたのでよろしければご
+ 確認くださいませ
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1121599
 END:VEVENT
@@ -277,20 +260,6 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082265
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
- キープ、内１回予定
-DTSTART;TZID=Asia/Tokyo:20261015T160000
-DTEND;TZID=Asia/Tokyo:20261015T210000
-UID:e61beb731aa315d816ec26791a405bc09b3ed32d3839eb18d776f11abee92209
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1087178\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
- 】\n■2027年～変更になる可能性もあるので毎週抑えで
- す
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1087178
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
  、1か月前に日程絞られます
 DTSTART;TZID=Asia/Tokyo:20261021T130000
@@ -302,20 +271,6 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082266
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
- キープ、内１回予定
-DTSTART;TZID=Asia/Tokyo:20261022T160000
-DTEND;TZID=Asia/Tokyo:20261022T210000
-UID:2a088c847f2e5a8992a42477f138375ea8b85451f520a0129151acfeb9223caf
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1087179\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
- 】\n■2027年～変更になる可能性もあるので毎週抑えで
- す
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1087179
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
@@ -342,20 +297,6 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  収録スケジュールが出ました！
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970034
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
- キープ、内１回予定
-DTSTART;TZID=Asia/Tokyo:20261029T160000
-DTEND;TZID=Asia/Tokyo:20261029T210000
-UID:8536b4824f975ea5de81eb66df6f6a2ec0281e6d90faae5f56495b70973a34cb
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1087180\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
- ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
- 】\n■2027年～変更になる可能性もあるので毎週抑えで
- す
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1087180
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
@@ -497,7 +438,9 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1087183\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
  ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
  】\n■2027年～変更になる可能性もあるので毎週抑えで
- す
+ す\n\n⇒10月につきましては制作の見直しが入りまして
+ 、、素材が間に合わなそうなため全てバラシでお願い
+ します。
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1087183
 END:VEVENT
@@ -563,7 +506,9 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1087184\n\n【制作会社名】\n(株)アルディ\n\n【マネージャ
  ー名】\n野上 尚寿\n\n【担当者名】\n越川さま\n\n【メモ
  】\n■2027年～変更になる可能性もあるので毎週抑えで
- す
+ す\n\n⇒10月につきましては制作の見直しが入りまして
+ 、、素材が間に合わなそうなため全てバラシでお願い
+ します。
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1087184
 END:VEVENT
