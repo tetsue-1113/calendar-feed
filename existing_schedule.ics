@@ -4,14 +4,25 @@ PRODID:-//Voiceke Schedule//Calendar 1.0//JA
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:①隻眼・隻腕・隻脚の魔術師
-DTSTART;TZID=Asia/Tokyo:20261005T100000
+DTSTART;TZID=Asia/Tokyo:20261005T110000
 DTEND;TZID=Asia/Tokyo:20261005T150000
-UID:4d80af6b691800589b3dc0dbc2e28e8fa561fdd54e082809799f02a880bce6ac
+UID:2d5f3fe522597828fce61dc7be482ee9a320d574b98ac35a5d13a81c0b29d8b0
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1117336\n\n【制作会社名】\n(株)Studio Sound Bee\n\n【マネージ
- ャー名】\n堤　涼子
+ 1123653\n\n【スタジオ名】\nP'sスタジオ AR3（PW：1902）\n\n
+ 【制作会社名】\n(株)Studio Sound Bee\n\n【ディレクター名
+ 】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子\n\n【担
+ 当者名】\n林栞\n\n【添付ファイル】\nP's STUDIO案内地図
+ 【AR3】.pdf\nhttps://artsvision-schedule.com/fileattach/109498/P%27s%20S
+ TUDIO%E6%A1%88%E5%86%85%E5%9C%B0%E5%9B%B3%E3%80%90AR3%E3%80%91.pdf\n\n【
+ 隻眼隻腕隻脚の魔術師】#01香盤表.pdf\nhttps://artsvision-sche
+ dule.com/fileattach/109498/%E3%80%90%E9%9A%BB%E7%9C%BC%E9%9A%BB%E8%85%95%E
+ 9%9A%BB%E8%84%9A%E3%81%AE%E9%AD%94%E8%A1%93%E5%B8%AB%E3%80%91%2301%E9%A6%9
+ 9%E7%9B%A4%E8%A1%A8.pdf\n\n【メモ】\n■RH映像につきまして\n
+ 差し替えが発生する予定とお伝えしましたが、差し替
+ えはなしとなりましたので昨日お送りしました映像に
+ て実地されます。
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1117336
+URL:https://artsvision-schedule.com/schedule/detail/1123653
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
