@@ -25,19 +25,6 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1123653
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261007T130000
-DTEND;TZID=Asia/Tokyo:20261007T150000
-UID:83168f93b479ad11eca77549969373e941703d8f5482c1365b25c8eada1e9357
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082264\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082264
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:①Paradox Live　アプリ用音声収録
 DTSTART;TZID=Asia/Tokyo:20261007T160000
 DTEND;TZID=Asia/Tokyo:20261007T170000
@@ -67,43 +54,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1105073
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261014T130000
-DTEND;TZID=Asia/Tokyo:20261014T150000
-UID:a170d644a28b6e891f615fe0e9a6e13b9c6ed4c3a05ef47f49b1afaeb32e7a78
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082265\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082265
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DTSTART;TZID=Asia/Tokyo:20261021T130000
 DTEND;TZID=Asia/Tokyo:20261021T150000
-UID:c60c0ef3f5d8d92709b42fcea908795ae351c5ff6609110aadcb26fe82218720
+UID:9e10805d8145b84c219af59c2356c854b1741af80d67f4b73f2ac52ce5eae609
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1082266\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
+ 】\n小林 聡華\n\n【担当者名】\n小宮\n\n【メモ】\n・10月
+ 分は10/21に実施となります！
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082266
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261028T130000
-DTEND;TZID=Asia/Tokyo:20261028T150000
-UID:acd78454bbc14b42becbf5d2ba31a8e27b8d51453095412bb92fa1e260338f81
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082267\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082267
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:④全力回避フラグちゃん！
@@ -142,19 +103,6 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  橋
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/902021
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261104T130000
-DTEND;TZID=Asia/Tokyo:20261104T150000
-UID:286a872a86aee3380234390df8cb0d726106c4857f7f2d9966f8c8bd5b952c3c
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082268\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082268
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①「原宿ヒメゴトハウス」AGF　※16：10～16：50本
@@ -198,19 +146,6 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/902022
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261111T130000
-DTEND;TZID=Asia/Tokyo:20261111T150000
-UID:aecc61c9ea0df72bc47351124f86d3ea0dbdad276360a14a7b3d39ea4d805ea0
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082269\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082269
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
 DTSTART;TZID=Asia/Tokyo:20261117T000000
 DTEND;TZID=Asia/Tokyo:20261117T235900
@@ -236,17 +171,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/902023
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DTSTART;TZID=Asia/Tokyo:20261118T130000
 DTEND;TZID=Asia/Tokyo:20261118T150000
-UID:b00e6a60015a8dc9831387cda880a7bb59956d54a567d857b1cb4123220f25e1
+UID:0e1182479117e7e4f9f7a94641b198bc2cbeafb620252f4f7befdd0f0863c640
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082270\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130089\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
+ 】\n小林 聡華\n\n【担当者名】\n小宮\n\n【メモ】\n・11月
+ 分は11/18に実施となります！
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082270
+URL:https://artsvision-schedule.com/schedule/detail/1130089
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
@@ -288,19 +223,6 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  橋
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/902024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
- 、1か月前に日程絞られます
-DTSTART;TZID=Asia/Tokyo:20261125T130000
-DTEND;TZID=Asia/Tokyo:20261125T150000
-UID:8dd5239627e6983773113ad60e519d20af0ee790010cac3ccf07a150c60e8b46
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082271\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
- ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
- 】\n小林 聡華\n\n【担当者名】\n小宮
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082271
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①全力回避フラグちゃん！　※「社内システム」
@@ -364,11 +286,11 @@ DTSTART;TZID=Asia/Tokyo:20261202T130000
 DTEND;TZID=Asia/Tokyo:20261202T150000
 UID:cb38f44b800df7b9bdc0e6b8544dd82ea1c28e005b9e86b8fbad1e098a421904
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082272\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130344\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082272
+URL:https://artsvision-schedule.com/schedule/detail/1130344
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
@@ -402,11 +324,11 @@ DTSTART;TZID=Asia/Tokyo:20261209T130000
 DTEND;TZID=Asia/Tokyo:20261209T150000
 UID:2de186f4b4be438b0565adf42d640a49893691ade62bf5a3be1e04e2722442c5
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082273\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130345\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082273
+URL:https://artsvision-schedule.com/schedule/detail/1130345
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
@@ -440,11 +362,11 @@ DTSTART;TZID=Asia/Tokyo:20261216T130000
 DTEND;TZID=Asia/Tokyo:20261216T150000
 UID:efc83ff684b81b3a31fedc50b29ef7375cf663a821f9af61b90b1736099dbaad
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082274\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130346\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082274
+URL:https://artsvision-schedule.com/schedule/detail/1130346
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
@@ -494,11 +416,11 @@ DTSTART;TZID=Asia/Tokyo:20261223T130000
 DTEND;TZID=Asia/Tokyo:20261223T150000
 UID:d567f4f74613aab0d6ef6378a440deae131c17b759d1b7311d1bad77805373bd
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082275\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130347\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082275
+URL:https://artsvision-schedule.com/schedule/detail/1130347
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:④全力回避フラグちゃん！
@@ -561,11 +483,11 @@ DTSTART;TZID=Asia/Tokyo:20261230T130000
 DTEND;TZID=Asia/Tokyo:20261230T150000
 UID:c5f710cb689ac4991354a3aee412e73648f1442c99d449b75e9b271b3a60bc18
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1082276\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
+ 1130348\n\n【スタジオ名】\n高円寺スタジオトロン　オレ
  ンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1082276
+URL:https://artsvision-schedule.com/schedule/detail/1130348
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②原宿ヒメゴトハウス　※毎月第３、４、５木曜
