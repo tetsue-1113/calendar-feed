@@ -85,6 +85,18 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970034
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①LIVERTINE AGEコラボ企画撮影
+DTSTART;TZID=Asia/Tokyo:20261030T110000
+DTEND;TZID=Asia/Tokyo:20261030T150000
+UID:f4c37e5b5007b693475c798e48c6fa463d96feb6b9555a03fddea6b9af00c2b8
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1135451\n\n【制作会社名】\n(株)ＵＤＧ\n\n【マネージャー
+ 名】\n兼丸 なな弥\n\n【担当者名】\n大林様、デザイナ
+ ーの方
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1135451
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
 DTSTART;TZID=Asia/Tokyo:20261103T000000
 DTEND;TZID=Asia/Tokyo:20261103T235900
