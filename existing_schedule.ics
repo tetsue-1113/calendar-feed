@@ -59,6 +59,18 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1105073
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①今日ログ
+DTSTART;TZID=Asia/Tokyo:20261015T203000
+DTEND;TZID=Asia/Tokyo:20261015T230000
+UID:07083660dc60581b01bf62fd5c9fe470efa19229a580c623b626f10fa9e19388
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1136637\n\n【制作会社名】\n(株)マリン･エンタテインメ
+ ント\n\n【マネージャー名】\n杉山　裕\n\n【担当者名】
+ \n西川路
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1136637
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DTSTART;TZID=Asia/Tokyo:20261021T130000
 DTEND;TZID=Asia/Tokyo:20261021T150000
