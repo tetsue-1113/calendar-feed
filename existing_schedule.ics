@@ -85,6 +85,26 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1082266
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①本人NG（帰省）
+DTSTART;TZID=Asia/Tokyo:20261022T150000
+DTEND;TZID=Asia/Tokyo:20261023T030000
+UID:a58fc27cadd28082a2819b6d839261c2a43a01ed9bc49f3d4e6611e128847651
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1140388
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1140388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①本人NG（帰省）
+DTSTART;TZID=Asia/Tokyo:20261023T040000
+DTEND;TZID=Asia/Tokyo:20261023T150000
+UID:c0dd3b1cc2863da0e3e94b0223e066b5769a19b391793079aa904806fe8bd627
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1140389
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1140389
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:④全力回避フラグちゃん！
 DTSTART;TZID=Asia/Tokyo:20261028T160000
 DTEND;TZID=Asia/Tokyo:20261028T173000
