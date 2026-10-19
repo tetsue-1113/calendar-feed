@@ -419,6 +419,21 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1087188
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①Paradox Live　東武動物公園コラボ　トークイベン
+ ト
+DTSTART;TZID=Asia/Tokyo:20261227T000000
+DTEND;TZID=Asia/Tokyo:20261227T235900
+UID:2e396d28f0cdce6df130cbd44b99cbfd3ffdc710b7bfc62268ec376271faf0bc
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1140823\n\n【制作会社名】\nエイベックス・ピクチャーズ(
+ 株)\n\n【マネージャー名】\n堤　涼子\n\n【担当者名】\n
+ 櫻井聖子\n\n【メモ】\n・メイクつき、衣装自前（外イ
+ ベントのため要アウター）\n・プレゼント抽選会用にサ
+ インのご記入をお願い致します
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1140823
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:④推しの一途すぎる執着を、私はまだ知らない
 DTSTART;TZID=Asia/Tokyo:20261229T000000
 DTEND;TZID=Asia/Tokyo:20261229T235900
