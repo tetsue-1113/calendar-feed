@@ -112,6 +112,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1130345
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①Paradox Live　ラジオ　『LIVE FOR the TRUTH・BlockA』
+DTSTART;TZID=Asia/Tokyo:20261210T130000
+DTEND;TZID=Asia/Tokyo:20261210T150000
+UID:33e1e5bc43e5dd74d4a06e29ddb3b7658cba6d584ef9e9381c358f5cbe4dcd4f
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1158080\n\n【マネージャー名】\n堤　涼子\n\n【担当者名】
+ \nRadio5233　林田
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1158080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
  、1か月前に日程絞られます
 DTSTART;TZID=Asia/Tokyo:20261216T130000
