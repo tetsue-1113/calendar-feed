@@ -136,6 +136,19 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1130345
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①【Rec】Paradox Live　※2曲かも
+DTSTART;TZID=Asia/Tokyo:20261209T160000
+DTEND;TZID=Asia/Tokyo:20261209T190000
+UID:1a6df1f42a88e8ecb32cd5a005ba999afcb3be92d463f50f5e56bbd8e3af1a8f
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1158555\n\n【制作会社名】\n合同会社シーアンドティー\n\n
+ 【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加
+ 渚\n\n【メモ】\n・4thシーズン第1戦チーム楽曲「MY TRUTH
+ 」\n・映画全員曲「ONE MO’ TIME」
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1158555
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①Paradox Live　ラジオ　『LIVE FOR the TRUTH・BlockA』
 DTSTART;TZID=Asia/Tokyo:20261210T130000
 DTEND;TZID=Asia/Tokyo:20261210T150000
@@ -145,6 +158,19 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  \nRadio5233　林田
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1158080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①【Rec】Paradox Live　※2曲かも
+DTSTART;TZID=Asia/Tokyo:20261210T160000
+DTEND;TZID=Asia/Tokyo:20261210T190000
+UID:8c1ef824c4469a760e27109d7e4fabccfcc84f7872fa21e9a1623439716fc93d
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1158556\n\n【制作会社名】\n合同会社シーアンドティー\n\n
+ 【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加
+ 渚\n\n【メモ】\n・4thシーズン第1戦チーム楽曲「MY TRUTH
+ 」\n・映画全員曲「ONE MO’ TIME」
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1158556
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
