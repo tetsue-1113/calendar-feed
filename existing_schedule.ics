@@ -60,15 +60,17 @@ URL:https://artsvision-schedule.com/schedule/detail/1156329
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【テープAD】ワンルームTAさん
-DTSTART;TZID=Asia/Tokyo:20261112T000000
-DTEND;TZID=Asia/Tokyo:20261112T235900
-UID:f695e8f0f0e1382eefc60757b727a181e0bfbc622b4f4335ecd931a92e29aa2f
+DTSTART;TZID=Asia/Tokyo:20261112T163000
+DTEND;TZID=Asia/Tokyo:20261112T164000
+UID:639ef8d4a6d8e419e2c88e8bce0a940ce033b953752b693c5c63331226f37426
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1158477\n\n【スタジオ名】\n松田ビル地下スタジオ\n\n【メ
+ 1158619\n\n【スタジオ名】\n松田ビル地下スタジオ\n\n【メ
  モ】\n・アクシー制作「ワンルームTAさん」役：ソン・
- ウユン（担当：兼丸）
+ ウユン（担当：兼丸）\n※外画アニメのオーディション
+ です。声や演技などは、お送りした映像の本国の声優
+ さんをご参考ください！
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1158477
+URL:https://artsvision-schedule.com/schedule/detail/1158619
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
