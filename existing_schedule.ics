@@ -110,6 +110,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1159142
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①dominion　※どこか1日
+DTSTART;TZID=Asia/Tokyo:20261120T000000
+DTEND;TZID=Asia/Tokyo:20261120T235900
+UID:f40ca0ff9aa922fb8f32f01b7d81e3c503c866b1420cb812ebab71d2537da92a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1163376\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
+ ジャー名】\n山村 綾香\n\n【担当者名】\n中村さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1163376
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
 DTSTART;TZID=Asia/Tokyo:20261123T000000
 DTEND;TZID=Asia/Tokyo:20261123T235900
@@ -118,6 +129,17 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1162114
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1162114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①dominion　※どこか1日
+DTSTART;TZID=Asia/Tokyo:20261124T000000
+DTEND;TZID=Asia/Tokyo:20261124T235900
+UID:d24037714ff0366d9d252b7cd3fe0b35614635523b19c00048bec2b52fd5550e
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1163377\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
+ ジャー名】\n山村 綾香\n\n【担当者名】\n中村さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1163377
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
@@ -142,6 +164,17 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  収録スケジュールが出ました！
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①dominion　※どこか1日
+DTSTART;TZID=Asia/Tokyo:20261126T000000
+DTEND;TZID=Asia/Tokyo:20261126T235900
+UID:c81af09eb4dd7c39e2d993aa32d10bb8d69f05943aabc510f8963552ff35b580
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1163378\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
+ ジャー名】\n山村 綾香\n\n【担当者名】\n中村さま
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1163378
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
