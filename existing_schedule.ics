@@ -111,14 +111,14 @@ URL:https://artsvision-schedule.com/schedule/detail/1159142
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①dominion　※どこか1日
-DTSTART;TZID=Asia/Tokyo:20261120T000000
-DTEND;TZID=Asia/Tokyo:20261120T235900
-UID:f40ca0ff9aa922fb8f32f01b7d81e3c503c866b1420cb812ebab71d2537da92a
+DTSTART;TZID=Asia/Tokyo:20261120T130000
+DTEND;TZID=Asia/Tokyo:20261120T210000
+UID:4471a65685bfeeb4ff56d16f9e3f156a961869c17631ffb3345f2a0e814bb904
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1163376\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
+ 1163865\n\n【制作会社名】\n株式会社東北新社\n\n【マネー
  ジャー名】\n山村 綾香\n\n【担当者名】\n中村さま
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1163376
+URL:https://artsvision-schedule.com/schedule/detail/1163865
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
