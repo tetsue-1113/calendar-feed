@@ -106,15 +106,16 @@ URL:https://artsvision-schedule.com/schedule/detail/1164469
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②今日ログ
-DTSTART;TZID=Asia/Tokyo:20261119T200000
+DTSTART;TZID=Asia/Tokyo:20261119T193000
 DTEND;TZID=Asia/Tokyo:20261119T230000
-UID:798fafa5fe6310c684bc1ae7afd5a21275526dbfad1fbcfe485d4394beb17b4d
+UID:cf859f101c6ab4e46aafea3df6db77f6689bd0e46a48cf079f7a2385ad4d97fc
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1159142\n\n【制作会社名】\n(株)マリン･エンタテインメ
+ 1166567\n\n【スタジオ名】\nマリンエンタテインメント（
+ 池袋）\n\n【制作会社名】\n(株)マリン･エンタテインメ
  ント\n\n【マネージャー名】\n杉山　裕\n\n【担当者名】
  \n西川路
 LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1159142
+URL:https://artsvision-schedule.com/schedule/detail/1166567
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①dominion
