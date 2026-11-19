@@ -174,6 +174,28 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970035
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①【オーディオブック】探偵小石は戻らない
+DTSTART;TZID=Asia/Tokyo:20261127T140000
+DTEND;TZID=Asia/Tokyo:20261127T210000
+UID:bed60049e67dbd6d29efc21f856244b7d124778dca8ed061d026b3b7ec5e845a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1167066\n\n【制作会社名】\n株式会社スカーレット\n\n【マ
+ ネージャー名】\n堤　涼子
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1167066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①【オーディオブック】探偵小石は戻らない
+DTSTART;TZID=Asia/Tokyo:20261129T000000
+DTEND;TZID=Asia/Tokyo:20261129T235900
+UID:c35e3c164d1b5e9b8c5ace2af4a80490b34ba44c3b3324fe417352d8f8baafcc
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1167068\n\n【制作会社名】\n株式会社スカーレット\n\n【マ
+ ネージャー名】\n堤　涼子
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1167068
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
 DTSTART;TZID=Asia/Tokyo:20261130T000000
 DTEND;TZID=Asia/Tokyo:20261130T235900
@@ -182,6 +204,17 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1162115
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1162115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①【オーディオブック】探偵小石は戻らない
+DTSTART;TZID=Asia/Tokyo:20261201T000000
+DTEND;TZID=Asia/Tokyo:20261201T235900
+UID:a716dda5801120149d483c6007ae42da69eae0a8b1d40cbe35a23af3add9f46a
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1167069\n\n【制作会社名】\n株式会社スカーレット\n\n【マ
+ ネージャー名】\n堤　涼子
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1167069
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
@@ -195,6 +228,28 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  】\n小林 聡華\n\n【担当者名】\n小宮
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1130344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①【オーディオブック】探偵小石は戻らない
+DTSTART;TZID=Asia/Tokyo:20261203T140000
+DTEND;TZID=Asia/Tokyo:20261203T210000
+UID:1695302c38d5d9a524a15958fe9241020ada0649a5b5b7da29ded798745c3ba4
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1167071\n\n【制作会社名】\n株式会社スカーレット\n\n【マ
+ ネージャー名】\n堤　涼子
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1167071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:①【オーディオブック】探偵小石は戻らない
+DTSTART;TZID=Asia/Tokyo:20261205T000000
+DTEND;TZID=Asia/Tokyo:20261205T235900
+UID:03bf1360fe34c0ad303fd8da4653d35ff80943fa28d52388e4128c13d21e43aa
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1167072\n\n【制作会社名】\n株式会社スカーレット\n\n【マ
+ ネージャー名】\n堤　涼子
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1167072
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
