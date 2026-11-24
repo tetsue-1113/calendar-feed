@@ -140,26 +140,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1164477
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:②ワンルームTAさん
-DTSTART;TZID=Asia/Tokyo:20261125T000000
-DTEND;TZID=Asia/Tokyo:20261125T235900
-UID:4e9ce75ad87f11789f66ca0393309c6d1e4b9aaea8844651082e8376e97bd3de
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1162124
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1162124
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①全力回避フラグちゃん！　※「社内システム」
- から貰った
+SUMMARY:①全力回避フラグちゃん！
 DTSTART;TZID=Asia/Tokyo:20261125T160000
 DTEND;TZID=Asia/Tokyo:20261125T173000
-UID:63d0ed53f5057bbcf583ea416911906065e8759690e39864be81e7ec9c84afd0
+UID:8f743e175884bcac558880567c0461936a3aafd91708820c4ff100f2ac98c766
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  970035\n\n【スタジオ名】\n株式会社Plott本社\n\n【制作会
  社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 な
- な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n6月以降の
- 収録スケジュールが出ました！
+ な弥\n\n【担当者名】\n矢嶋さま\n\n【メモ】\n■台本はsl
+ ackよりご共有いただいております！\n\n【時間】\n前半
+ ：保住さん、住谷さん、相良さん　16時〜17時半\n後半
+ ：武田さん、梶川さん、岡村さん　18時〜20時半
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/970035
 END:VEVENT
@@ -205,6 +196,16 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  ネージャー名】\n堤　涼子
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1167069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:②ワンルームTAさん
+DTSTART;TZID=Asia/Tokyo:20261202T000000
+DTEND;TZID=Asia/Tokyo:20261202T235900
+UID:38b3ba8e10b802dd98491eae55d5928e7d69095ea84880a5ab35fd36e9cb1dda
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1169593
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1169593
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回
