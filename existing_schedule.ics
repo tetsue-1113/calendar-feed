@@ -224,6 +224,17 @@ LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1130344
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:①セゾン投信 ラジオCM
+DTSTART;TZID=Asia/Tokyo:20261203T100000
+DTEND;TZID=Asia/Tokyo:20261203T130000
+UID:10c339aef9592ff1b5b2cece6f7c4d4569be9e3c6b700abfad1c2eec12df2274
+DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
+ 1170670\n\n【制作会社名】\n株式会社アームズ\n\n【マネー
+ ジャー名】\n茂田井 恵
+LOCATION:未指定
+URL:https://artsvision-schedule.com/schedule/detail/1170670
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:①【オーディオブック】探偵小石は戻らない
 DTSTART;TZID=Asia/Tokyo:20261203T140000
 DTEND;TZID=Asia/Tokyo:20261203T190000
