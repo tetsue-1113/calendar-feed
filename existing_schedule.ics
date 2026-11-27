@@ -279,10 +279,9 @@ UID:e2cc36255f8611bd03441cccffe327d05ab9d456e8f1610f9467ac9628500800
 DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  1171294\n\n【制作会社名】\n合同会社シーアンドティー\n\n
  【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加
- 渚\n\n【メモ】\n※12／9が16－21時にkeep時間変更になりま
- した（18－21時になる可能性があります）\n\n・4thシーズ
- ン第1戦チーム楽曲「MY TRUTH」\n・映画全員曲「ONE MO’ TI
- ME」
+ 渚\n\n【メモ】\n※12／9で確定になったため、12／10はバ
+ ラシになりました。\n\n・4thシーズン第1戦チーム楽曲「
+ MY TRUTH」\n・映画全員曲「ONE MO’ TIME」
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1171294
 END:VEVENT
@@ -296,21 +295,6 @@ DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
  \nRadio5233　林田
 LOCATION:未指定
 URL:https://artsvision-schedule.com/schedule/detail/1158080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:①【Rec】Paradox Live　※2曲同日に収録予定
-DTSTART;TZID=Asia/Tokyo:20261210T160000
-DTEND;TZID=Asia/Tokyo:20261210T190000
-UID:c2a79c12e701a86655404e43b493e7b780b50f7f2071d4d79ee6bbd78cf93e1f
-DESCRIPTION:【元URL】\nhttps://artsvision-schedule.com/schedule/detail/
- 1158556\n\n【制作会社名】\n合同会社シーアンドティー\n\n
- 【マネージャー名】\n堤　涼子\n\n【担当者名】\n須山加
- 渚\n\n【メモ】\n※12／9が16－21時にkeep時間変更になりま
- した（18－21時になる可能性があります）\n\n・4thシーズ
- ン第1戦チーム楽曲「MY TRUTH」\n・映画全員曲「ONE MO’ TI
- ME」
-LOCATION:未指定
-URL:https://artsvision-schedule.com/schedule/detail/1158556
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:②ワンルームTAさん
